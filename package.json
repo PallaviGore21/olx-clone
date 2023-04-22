@@ -1,0 +1,14 @@
+{
+  "name": "e-com-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "frontend": "cd frontend && yarn run dev",
+    "backend": "cd backend && json-server --watch --port=5000 db.json",
+    "start": "concurrently  \" npm run frontend \" \" npm run backend \" "
+  },
+  "dependencies": {
+    "concurrently": "^7.6.0"
+  }
+}

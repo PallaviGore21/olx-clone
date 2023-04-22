@@ -1,0 +1,332 @@
+{
+  "Productsdata": [
+    {
+      "avatar": "https://m.media-amazon.com/images/I/51Jx33Kl0FL._SX300_SY300_QL70_FMwebp_.jpg",
+      "price": "₹ 7000",
+      "name": "realme C35 (Glowing Green, 4GB RAM, 64GB Storage)",
+      "address": "noida,Delhi",
+      "description": "Registration Transfer: Yes Insurance: YesColor: Silver Service History: Available Registration Place: HR Accidental: NoFlood Affected: No Warranty: YesVehicle Certified: Yes Finance: Yes Exchange: Yes Type of Car: SUV Insurance Type: No Insurance Condition: Used Make Month: April",
+      "category": "phone",
+      "userId": 7,
+      "id": 1
+    },
+    {
+      "avatar": "https://www.mantraman.in/wp-content/uploads/2022/03/c1_1.jpeg",
+      "price": "₹ 5000",
+      "name": "realme 7 (Mist White, 6GB RAM, 64GB Storage)",
+      "address": "pachim vihar,Delhi",
+      "description": "Registration Transfer: Yes Insurance: YesColor: Silver Service History: Available Registration Place: HR Accidental: NoFlood Affected: No Warranty: YesVehicle Certified: Yes Finance: Yes Exchange: Yes Type of Car: SUV Insurance Type: No Insurance Condition: Used Make Month: April",
+      "category": "phone",
+      "userId": 6,
+      "id": 2
+    },
+    {
+      "avatar": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1666987386/Croma%20Assets/Communication/Mobiles/Images/251587_dxtift.png/mxw_2048,f_auto",
+      "price": "₹ 9000",
+      "name": "realme 9 (6GB RAM, 128GB, Stargaze White)",
+      "address": "usmanpura Aurangabad",
+      "description": "Registration Transfer: Yes Insurance: YesColor: Silver Service History: Available Registration Place: HR Accidental: NoFlood Affected: No Warranty: YesVehicle Certified: Yes Finance: Yes Exchange: Yes Type of Car: SUV Insurance Type: No Insurance Condition: Used Make Month: April",
+      "category": "phone",
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "avatar": "https://www.saasna.com/835-large_default/realme-9i-prism-black-128-gb-6-gb-ram.jpg",
+      "price": "₹ 10,000",
+      "name": "Realme 10 Pro Plus 128 GB (Nebula Blue, 8 GB RAM)",
+      "address": "dombivli mumbai",
+      "description": "Registration Transfer: Yes Insurance: YesColor: Silver Service History: Available Registration Place: HR Accidental: NoFlood Affected: No Warranty: YesVehicle Certified: Yes Finance: Yes Exchange: Yes Type of Car: SUV Insurance Type: No Insurance Condition: Used Make Month: April",
+      "category": "phone",
+      "userId": 5,
+      "id": 4
+    },
+    {
+      "avatar": "https://ezifa1.n3cdn1.secureserver.net/wp-content/uploads/2022/06/realme-C31-Light-Silver-32-GB-3-GB-RAM.jpg?time=1673506811",
+      "price": "₹ 3500",
+      "name": "realme C31 (Light Silver, 32 GB) (3 GB RAM)",
+      "address": "vadnagar gujrat",
+      "description": "Registration Transfer: Yes Insurance: YesColor: Silver Service History: Available Registration Place: HR Accidental: NoFlood Affected: No Warranty: YesVehicle Certified: Yes Finance: Yes Exchange: Yes Type of Car: SUV Insurance Type: No Insurance Condition: Used Make Month: April",
+      "category": "phone",
+      "userId": 4,
+      "id": 5
+    },
+    {
+      "avatar": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-m136bdbhins/gallery/in-gakaxy-m13-5g-6gb-sm-m136bdbhins-533152064?$730_584_PNG$",
+      "price": "₹ 3500",
+      "name": "Galaxy S20FE 5G (8GB | 128GB) ",
+      "address": "cidco aurangabad",
+      "description": "Registration Transfer: Yes Insurance: YesColor: Silver Service History: Available Registration Place: HR Accidental: NoFlood Affected: No Warranty: YesVehicle Certified: Yes Finance: Yes Exchange: Yes Type of Car: SUV Insurance Type: No Insurance Condition: Used Make Month: April",
+      "category": "phone",
+      "userId": 5,
+      "id": 6
+    },
+    {
+      "avatar": "https://www.hilaptop.com/userdata/public/gfx/33630.jpg",
+      "price": "₹ 7000",
+      "name": "Galaxy S20FE 5G (8GB | 128GB) ",
+      "address": "panji Goa",
+      "description": "Registration Transfer: Yes Insurance: YesColor: Silver Service History: Available Registration Place: HR Accidental: NoFlood Affected: No Warranty: YesVehicle Certified: Yes Finance: Yes Exchange: Yes Type of Car: SUV Insurance Type: No Insurance Condition: Used Make Month: April",
+      "category": "phone",
+      "userId": 5,
+      "id": 7
+    },
+    {
+      "avatar": "https://m.media-amazon.com/images/I/31nOG8%2BkPFL._SY300_SX300_QL70_FMwebp_.jpg",
+      "price": "₹ 10,000",
+      "name": "Samsung Galaxy A33 5G (Light Blue, 6GB RAM, 128GB Storage)",
+      "address": "bhopal MP",
+      "description": "Registration Transfer: Yes Insurance: YesColor: Silver Service History: Available Registration Place: HR Accidental: NoFlood Affected: No Warranty: YesVehicle Certified: Yes Finance: Yes Exchange: Yes Type of Car: SUV Insurance Type: No Insurance Condition: Used Make Month: April",
+      "category": "phone",
+      "userId": 5,
+      "id": 8
+    },
+    {
+      "avatar": "https://m.media-amazon.com/images/I/81vDZyJQ-4L._SY741_.jpg",
+      "price": "₹ 15,000",
+      "name": "Samsung Galaxy S20 FE 5G (Cloud Navy, 8GB RAM",
+      "address": "haldvani uttrakhand",
+      "category": "phone",
+      "userId": 4,
+      "description": "Registration Transfer: Yes Insurance: YesColor: Silver Service History: Available Registration Place: HR Accidental: NoFlood Affected: No Warranty: YesVehicle Certified: Yes Finance: Yes Exchange: Yes Type of Car: SUV Insurance Type: No Insurance Condition: Used Make Month: April",
+      "id": 9
+    },
+    {
+      "avatar": "https://m.media-amazon.com/images/I/61DLxzUCeeL._SX425_.jpg",
+      "price": "₹ 5,000",
+      "name": "Samsung Galaxy A53 5G ",
+      "address": "dehradun uttrakhand",
+      "category": "phone",
+      "userId": 6,
+      "description": "Registration Transfer: Yes Insurance: YesColor: Silver Service History: Available Registration Place: HR Accidental: NoFlood Affected: No Warranty: YesVehicle Certified: Yes Finance: Yes Exchange: Yes Type of Car: SUV Insurance Type: No Insurance Condition: Used Make Month: April",
+      "id": 10
+    },
+    {
+      "avatar": "https://apollo-singapore.akamaized.net/v1/files/uekl48xtobsl1-IN/image;s=780x0;q=60",
+      "price": "₹ 4,15,000",
+      "name": "Honda Amaze (2014)",
+      "address": "nirman vihar Delhi",
+      "description": "Registration Transfer: Yes Insurance: YesColor: Silver Service History: Available Registration Place: HR Accidental: NoFlood Affected: No Warranty: YesVehicle Certified: Yes Finance: Yes Exchange: Yes Type of Car: SUV Insurance Type: No Insurance Condition: Used Make Month: April",
+      "category": "car",
+      "userId": 7,
+      "id": 11
+    },
+    {
+      "avatar": "https://apollo-singapore.akamaized.net/v1/files/d2lne4jsaxkz2-IN/image;s=780x0;q=60",
+      "price": "₹ 8,20,000",
+      "name": "Honda Wr-V (2020)",
+      "address": "lakhnow up",
+      "description": "Registration Transfer: Yes Insurance: YesColor: Silver Service History: Available Registration Place: HR Accidental: NoFlood Affected: No Warranty: YesVehicle Certified: Yes Finance: Yes Exchange: Yes Type of Car: SUV Insurance Type: No Insurance Condition: Used Make Month: April",
+      "category": "car",
+      "userId": 6,
+      "id": 12
+    },
+    {
+      "avatar": "https://apollo-singapore.akamaized.net/v1/files/y9g9ezsik3op1-IN/image;s=780x0;q=60",
+      "price": "₹ 15,40,000",
+      "name": "Mahindra Thar (2021)",
+      "address": "Rohini Sector 25, panjab",
+      "description": "Registration Transfer: Yes Insurance: YesColor: Silver Service History: Available Registration Place: HR Accidental: NoFlood Affected: No Warranty: YesVehicle Certified: Yes Finance: Yes Exchange: Yes Type of Car: SUV Insurance Type: No Insurance Condition: Used Make Month: April",
+      "category": "car",
+      "userId": 1,
+      "id": 13
+    },
+    {
+      "avatar": "https://apollo-singapore.akamaized.net/v1/files/c8270iiam3hf2-IN/image;s=780x0;q=60",
+      "price": "₹ 16,40,000",
+      "name": "Mahindra Thar (2022)",
+      "address": "Pitampura, Delhi",
+      "description": "Registration Transfer: Yes Insurance: YesColor: Silver Service History: Available Registration Place: HR Accidental: NoFlood Affected: No Warranty: YesVehicle Certified: Yes Finance: Yes Exchange: Yes Type of Car: SUV Insurance Type: No Insurance Condition: Used Make Month: April",
+      "category": "car",
+      "userId": 2,
+      "id": 14
+    },
+    {
+      "avatar": "https://apollo-singapore.akamaized.net/v1/files/zv88uvu3p6rw2-IN/image;s=780x0;q=60",
+      "price": "₹ 9,50,000",
+      "name": "Hyundai Creta (2018)",
+      "address": "shivpuri MP",
+      "description": "Registration Transfer: Yes Insurance: YesColor: Silver Service History: Available Registration Place: HR Accidental: NoFlood Affected: No Warranty: YesVehicle Certified: Yes Finance: Yes Exchange: Yes Type of Car: SUV Insurance Type: No Insurance Condition: Used Make Month: April",
+      "category": "car",
+      "userId": 4,
+      "id": 15
+    },
+    {
+      "avatar": "https://apollo-singapore.akamaized.net/v1/files/tsl1f9p8gd3s1-IN/image;s=300x600;q=60",
+      "price": "₹ 50,000",
+      "name": "mestro 2020",
+      "address": "ashapur nashik",
+      "description": "Registration Transfer: Yes Insurance: YesColor: Silver Service History: Available Registration Place: HR Accidental: NoFlood Affected: No Warranty: YesVehicle Certified: Yes Finance: Yes Exchange: Yes Type of Car: SUV Insurance Type: No Insurance Condition: Used Make Month: April",
+      "category": "scooty",
+      "userId": 4,
+      "id": 16
+    },
+    {
+      "avatar": "https://apollo-singapore.akamaized.net/v1/files/tsl1f9p8gd3s1-IN/image;s=300x600;q=60",
+      "price": "₹ 50,000",
+      "name": "mestro 2020",
+      "address": "ashapur nashik",
+      "description": "Registration Transfer: Yes Insurance: YesColor: Silver Service History: Available Registration Place: HR Accidental: NoFlood Affected: No Warranty: YesVehicle Certified: Yes Finance: Yes Exchange: Yes Type of Car: SUV Insurance Type: No Insurance Condition: Used Make Month: April",
+      "category": "scooty",
+      "userId": 2,
+      "id": 17
+    },
+    {
+      "avatar": "https://apollo-singapore.akamaized.net/v1/files/tsl1f9p8gd3s1-IN/image;s=300x600;q=60",
+      "price": "₹ 50,000",
+      "name": "mestro 2020",
+      "address": "ashapur nashik",
+      "description": "Registration Transfer: Yes Insurance: YesColor: Silver Service History: Available Registration Place: HR Accidental: NoFlood Affected: No Warranty: YesVehicle Certified: Yes Finance: Yes Exchange: Yes Type of Car: SUV Insurance Type: No Insurance Condition: Used Make Month: April",
+      "category": "scooty",
+      "userId": 7,
+      "id": 18
+    },
+    {
+      "avatar": "https://apollo-singapore.akamaized.net/v1/files/tsl1f9p8gd3s1-IN/image;s=300x600;q=60",
+      "price": "₹ 50,000",
+      "name": "mestro 2020",
+      "address": "ashapur nashik",
+      "description": "Registration Transfer: Yes Insurance: YesColor: Silver Service History: Available Registration Place: HR Accidental: NoFlood Affected: No Warranty: YesVehicle Certified: Yes Finance: Yes Exchange: Yes Type of Car: SUV Insurance Type: No Insurance Condition: Used Make Month: April",
+      "category": "scooty",
+      "userId": 6,
+      "id": 19
+    },
+    {
+      "avatar": "https://apollo-singapore.akamaized.net/v1/files/tsl1f9p8gd3s1-IN/image;s=300x600;q=60",
+      "price": "₹ 50,000",
+      "name": "mestro 2020",
+      "address": "ashapur nashik",
+      "description": "Registration Transfer: Yes Insurance: YesColor: Silver Service History: Available Registration Place: HR Accidental: NoFlood Affected: No Warranty: YesVehicle Certified: Yes Finance: Yes Exchange: Yes Type of Car: SUV Insurance Type: No Insurance Condition: Used Make Month: April",
+      "category": "scooty",
+      "userId": 2,
+      "id": 20
+    },
+    {
+      "avatar": "https://rukminim1.flixcart.com/image/832/832/kp2y2kw0/computer/y/0/c/na-thin-and-light-laptop-asus-original-imag3ebnzawky4kn.jpeg?q=70",
+      "price": "20,000",
+      "name": "ASUS VivoBook 15 (2022) Core i3 10th Gen - (8 GB/512 GB SSD/Windows 11 Home) ",
+      "address": "cidco aurangabad",
+      "description": "Registration Transfer: Yes Insurance: YesColor: Silver Service History: Available Registration Place: HR Accidental: NoFlood Affected: No Warranty: YesVehicle Certified: Yes Finance: Yes Exchange: Yes Type of Car: SUV Insurance Type: No Insurance Condition: Used Make Month: April",
+      "category": "laptop",
+      "userId": 6,
+      "id": 21
+    },
+    {
+      "avatar": "https://rukminim1.flixcart.com/image/832/832/l45xea80/computer/m/q/7/vostro-3425-thin-and-light-laptop-dell-original-imagf4mth22ydgqs.jpeg?q=70",
+      "price": "20,000",
+      "name": "HP Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 11 Home)",
+      "address": "noida,Delhi",
+      "description": "Registration Transfer: Yes Insurance: YesColor: Silver Service History: Available Registration Place: HR Accidental: NoFlood Affected: No Warranty: YesVehicle Certified: Yes Finance: Yes Exchange: Yes Type of Car: SUV Insurance Type: No Insurance Condition: Used Make Month: April",
+      "category": "laptop",
+      "userId": 4,
+      "id": 22
+    },
+    {
+      "avatar": "https://rukminim1.flixcart.com/image/832/832/l45xea80/computer/m/q/7/vostro-3425-thin-and-light-laptop-dell-original-imagf4mth22ydgqs.jpeg?q=70",
+      "price": "20,000",
+      "name": "lDELL Inspiron Core i3 11th Gen",
+      "address": "bhopal MP",
+      "description": "Registration Transfer: Yes Insurance: YesColor: Silver Service History: Available Registration Place: HR Accidental: NoFlood Affected: No Warranty: YesVehicle Certified: Yes Finance: Yes Exchange: Yes Type of Car: SUV Insurance Type: No Insurance Condition: Used Make Month: April",
+      "category": "laptop",
+      "userId": 6,
+      "id": 23
+    },
+    {
+      "avatar": "https://rukminim1.flixcart.com/image/832/832/xif0q/computer/5/6/i/-original-imaggshd5zgfe8ev.jpeg?q=70",
+      "price": "20,000",
+      "name": "HP Ryzen 5 Hexa Core 5500U",
+      "address": "haldvani uttrakhand",
+      "description": "Registration Transfer: Yes Insurance: YesColor: Silver Service History: Available Registration Place: HR Accidental: NoFlood Affected: No Warranty: YesVehicle Certified: Yes Finance: Yes Exchange: Yes Type of Car: SUV Insurance Type: No Insurance Condition: Used Make Month: April",
+      "category": "laptop",
+      "userId": 1,
+      "id": 24
+    },
+    {
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHOQWsBvt7dbkgbgq-dU-ZQZVSsaKhJfQUK-4-8-pP2BrE3_OOnoatAgCnVO2KXYv4CD4&usqp=CAU",
+      "name": "scooty",
+      "category": "scooty",
+      "price": "25,000",
+      "address": "pachgani , nashik",
+      "description": "scooty in a good  condition",
+      "userId": 2,
+      "id": 25
+    },
+    {
+      "avatar": "https://www.balmerlawrie.com/img/main_images/inside_banner/travel-banner3.jpg",
+      "name": "pallavi",
+      "category": "scooty",
+      "price": "100",
+      "address": "nagpur",
+      "description": "jghjjhj",
+      "userId": 1,
+      "id": 26
+    },
+    {
+      "avatar": "https://m.media-amazon.com/images/I/51Jx33Kl0FL._SX300_SY300_QL70_FMwebp_.jpg",
+      "name": "realme C35 (Glowing Green, 4GB RAM, 64GB Storage)",
+      "category": "phone",
+      "price": "₹7000",
+      "address": "noida, delhi",
+      "description": "Registration Transfer: Yes Insurance: YesColor: Silver Service History: Available Registration Place: HR Accidental: NoFlood Affected: No Warranty: YesVehicle Certified: Yes Finance: Yes Exchange: Yes Type of Car: SUV Insurance Type: No Insurance Condition: Used Make Month: April",
+      "userId": 2,
+      "id": 27
+    }
+  ],
+  "users": [
+    {
+      "name": "john",
+      "email": "john@gmail.com",
+      "password": "12345",
+      "admin": false,
+      "id": 1
+    },
+    {
+      "name": "kate",
+      "email": "kate@gmail.com",
+      "password": "12345",
+      "admin": false,
+      "id": 2
+    },
+    {
+      "name": "pallavi",
+      "email": "pallavi@gmail.com",
+      "password": "12345",
+      "admin": true,
+      "id": 3
+    },
+    {
+      "name": "aa",
+      "email": "aa@gmail.com",
+      "password": "12345",
+      "admin": false,
+      "id": 4
+    },
+    {
+      "name": "ooo",
+      "email": "ooo@gmail.com",
+      "password": "12345",
+      "admin": false,
+      "id": 5
+    },
+    {
+      "name": "joe",
+      "email": "joe@gmail.com",
+      "password": "12345",
+      "admin": false,
+      "id": 6
+    },
+    {
+      "name": "nainika",
+      "email": "nainika@gmail.com",
+      "password": "12345",
+      "admin": false,
+      "id": 7
+    },
+    {
+      "name": "john",
+      "email": "john@gmail.com",
+      "password": "12345",
+      "admin": false,
+      "id": 8
+    }
+  ]
+}
